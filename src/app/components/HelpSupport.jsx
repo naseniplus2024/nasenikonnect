@@ -20,7 +20,8 @@ const HelpSupport = () => {
           <p className="text-gray-700 dark:text-gray-300">
             You can reach our support team at:
           </p>
-          <p className="text-blue-500 hover:underline">support@NASENIconnect.com</p>
+          <p className="text-blue-500 hover:underline">support@NASENIconnect.com or call +2348166967926</p>
+          
         </div>
 
        
